@@ -1,4 +1,3 @@
----
 
 ## Avaliação de Lógica de Programação 1° ano
 
@@ -134,70 +133,116 @@ d) O texto só pode conter letras do alfabeto, excluindo números ou espaços.
 
 
 
----
 
 ## Avaliação de Programação Web
 
 **Nome:** _____________________________________________________ **Data:** ___/___/___
 
 **1. Na "tríade fundamental" do desenvolvimento web, qual é a principal função do JavaScript (JS) em comparação ao HTML e ao CSS?**
+
 a) Criar o esqueleto e a estrutura da página.
+
 b) Definir as cores, fontes e o design do site.
+
 c) Fornecer o "cérebro", adicionando comportamento e interatividade.
+
 d) Hospedar os arquivos do site em um servidor externo.
 
 **2. Em um formulário HTML, qual tag é frequentemente utilizada para criar um campo onde o usuário pode digitar e inserir dados (entrada/input)?**
+
 a) `<button>`
+
 b) `<input>`
+
 c) `<p>`
+
 d) `<h1>`
 
 **3. No JavaScript, qual comando é usado para buscar um elemento HTML específico pelo seu atributo ID, permitindo capturar seu valor ou alterar seu texto?**
+
 a) `document.getElementById()`
+
 b) `console.log()`
+
 c) `fetch()`
+
 d) `function()`
 
+
 **4. Analisando a estrutura básica de um documento HTML5, qual tag é responsável por agrupar todo o conteúdo visível da página, como textos, imagens e botões?**
+
 a) `<head>`
+
 b) `<title>`
+
 c) `<body>`
+
 d) `<meta>`
 
+
 **5. O uso de CSS externo é recomendado para organizar o código. Qual tag HTML é utilizada dentro do `<head>` para conectar um arquivo CSS externo (como `style.css`) à página?**
+
 a) `<script>`
+
 b) `<a>`
+
 c) `<style>`
+
 d) `<link>`
 
+
 **6. O que é o "Bootstrap" no contexto do desenvolvimento front-end e da responsividade?**
+
 a) Uma linguagem de programação voltada apenas para o back-end (servidor).
+
 b) Uma API externa que fornece dados em tempo real sobre o clima.
+
 c) Um framework/biblioteca de estilos pré-prontos que facilita a criação de layouts e componentes responsivos.
+
 d) Uma tag obrigatória do HTML5 para criar links entre páginas.
 
+
 **7. Se precisamos verificar se a idade digitada por um usuário é maior ou igual a 18 anos para exibir uma mensagem específica, qual estrutura condicional utilizamos no JavaScript?**
+
 a) `for / while`
+
 b) `if / else`
+
 c) `function / return`
+
 d) `input / output`
 
+
 **8. Para que uma função JavaScript seja executada exatamente quando o usuário clica em um botão, usamos um "gatilho" de evento no elemento HTML. Qual atributo representa esse gatilho de clique?**
+
 a) `href`
+
 b) `id`
+
 c) `onclick`
+
 d) `class`
 
+
 **9. Na integração avançada de funcionalidades web, o que é uma API?**
+
 a) O estilo visual padrão aplicado a botões e tabelas no HTML.
+
 b) Uma fonte de dados externa que permite ao site "buscar informações de fora" (ex: dados de clima, cotação de moedas).
+
 c) O esqueleto principal de um documento HTML focado em acessibilidade.
+
 d) Uma variável JavaScript usada para guardar senhas dos usuários com segurança.
 
+
 **10. Qual função nativa do JavaScript é utilizada para realizar requisições a servidores externos (consumir uma API) lidando com "Promises" (promessas de que o dado vai chegar)?**
+
 a) `getElementById()`
+
 b) `fetch()`
+
 c) `innerText`
+
 d) `onclick()`
 
 ---
