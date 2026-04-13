@@ -7,7 +7,9 @@ Aqui estão as questões formatadas e prontas para você aplicar como uma prova.
 **Nome:** _____________________________________________________ **Data:** ___/___/___
 
 **1. De acordo com os conceitos de Lógica de Programação, o que é um algoritmo?**
+
 a) Um componente físico (hardware) responsável pelo processamento do computador.
+
 b) Uma linguagem de programação específica usada para criar fluxogramas.
 c) Uma sequência de passos lógicos para resolver um problema.
 d) Uma variável utilizada para armazenar números inteiros.
