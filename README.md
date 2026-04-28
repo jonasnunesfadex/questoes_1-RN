@@ -134,7 +134,7 @@ d) O texto só pode conter letras do alfabeto, excluindo números ou espaços.
 
 
 
-## Avaliação de Programação Web
+## Avaliação de Programação Web 2° ano
 
 **Nome:** _____________________________________________________ **Data:** ___/___/___
 
@@ -263,3 +263,90 @@ d) `onclick()`
 | **8** | **c** |
 | **9** | **b** |
 | **10** | **b** |
+
+
+---
+
+### **PROVA DE SISTEMAS OPERACIONAIS DE REDE 3° ano**
+
+**Nome:** _________________________________________________ **Turma:** _________ **Data:** ___/___/___
+
+**Instruções:** Leia atentamente cada enunciado e assinale apenas uma alternativa correta por questão.
+
+---
+
+**1. Sobre a arquitetura Monolítica de um Sistema Operacional, é correto afirmar que:**
+A) As funções são separadas em programas chamados Servidores que se comunicam com um núcleo mínimo.
+B) O sistema é escrito como uma coleção de rotinas onde cada uma pode chamar qualquer outra sempre que necessário.
+C) É um modelo que facilita a manutenção e a segurança, apesar de perder desempenho.
+D) É a arquitetura exclusiva de sistemas educacionais como o Minix.
+
+**2. No ciclo de vida de um processo, o que caracteriza a transição do estado "Pronto" para o estado "Em Execução"?**
+A) O processo é criado e enviado para a fila de execução. 
+B) O sistema operacional suspende a execução por uma operação de entrada e saída.
+C) O escalador de processos seleciona o processo para utilizar o processador.
+D) O processo aguarda a disponibilidade de uma entrada de dispositivo.
+
+**3. Qual diretório do Linux é responsável por armazenar os arquivos de configuração do sistema e de aplicativos?**
+A) `/bin` 
+B) `/home` 
+C) `/etc` 
+D) `/var` 
+
+**4. No Windows, qual sistema de arquivos é considerado o mais moderno, seguro e utilizado atualmente para o disco principal?**
+A) FAT32 
+B) EXT4 
+C) NTFS 
+D) MSI 
+
+**5. Qual o comando utilizado no terminal (PowerShell) para atualizar TODOS os programas gerenciados pelo Winget de uma só vez?**
+A) `winget search --all` 
+B) `winget install --all`
+C) `winget upgrade --all` 
+D) `winget list --update` 
+
+**6. O recurso de segurança do Windows que solicita permissão (janela azul) ao usuário antes de instalar programas ou alterar configurações críticas é o:**
+A) Windows Defender 
+B) BitLocker 
+C) Firewall 
+D) UAC (Controle de Conta de Usuário)
+
+**7. Os arquivos com extensão ".deb" são pacotes de software utilizados nativamente por qual distribuição Linux?**
+A) Red Hat 
+B) Debian (e derivados como Ubuntu) 
+C) Fedora 
+D) openSUSE 
+
+**8. Historicamente, qual personagem é reconhecido por ter criado o kernel Linux em 1991, inspirado no sistema MINIX?**
+A) Bill Gates 
+B) Richard Stallman 
+C) Linus Torvalds 
+D) Andrew S. Tanenbaum 
+
+**9. Sobre a segurança ao instalar programas, qual é uma prática recomendada para evitar malwares?**
+A) Desativar o antivírus temporariamente para facilitar a instalação. 
+B) Baixar executáveis (.EXE) recebidos por links em e-mails suspeitos. 
+C) Utilizar "cracks" e ativadores de programas pagos. 
+D) Baixar softwares sempre do site oficial do desenvolvedor ou de lojas oficiais. 
+
+**10. No sistema de arquivos, a forma de organização onde todos os arquivos fazem parte de um único diretório, exigindo nomes exclusivos para cada um, é chamada de:**
+A) Estrutura de diretórios em árvore. 
+B) Estrutura de diretórios em dois níveis. 
+C) Estrutura de diretório em nível único. 
+D) Acesso indexado. 
+
+---
+
+### **GABARITO**
+| Questão | Resposta Correta |
+| :---: | :---: |
+| 1. | **B** |
+|2. | **C** |
+|3. | **C** |
+|4.| **C** |
+|5.| **C**|
+|6.| **D**|
+|7.| **B** |
+|8.| **C** |
+|9.| **D**|
+|10.| **C**|
