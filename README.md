@@ -271,8 +271,8 @@ d) `onclick()`
 ---
 
 **1. Sobre a arquitetura Monolítica de um Sistema Operacional, é correto afirmar que:**
-A) As funções são separadas em programas chamados Servidores que se comunicam com um núcleo mínimo.
 
+A) As funções são separadas em programas chamados Servidores que se comunicam com um núcleo mínimo.
 
 B) O sistema é escrito como uma coleção de rotinas onde cada uma pode chamar qualquer outra sempre que necessário.
 
@@ -352,6 +352,7 @@ D) Andrew S. Tanenbaum
 
 **9. Sobre a segurança ao instalar programas, qual é uma prática recomendada para evitar malwares?**
 
+
 A) Desativar o antivírus temporariamente para facilitar a instalação. 
 
 B) Baixar executáveis (.EXE) recebidos por links em e-mails suspeitos. 
@@ -361,6 +362,7 @@ C) Utilizar "cracks" e ativadores de programas pagos.
 D) Baixar softwares sempre do site oficial do desenvolvedor ou de lojas oficiais. 
 
 **10. No sistema de arquivos, a forma de organização onde todos os arquivos fazem parte de um único diretório, exigindo nomes exclusivos para cada um, é chamada de:**
+
 
 A) Estrutura de diretórios em árvore. 
 
